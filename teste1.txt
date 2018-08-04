@@ -1,3 +1,8 @@
 teste commit1
+commit4
+teste commit2
 teste
+commit4
 teste commit3
+teste commit2
+commit4
